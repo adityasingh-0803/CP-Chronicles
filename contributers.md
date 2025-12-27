@@ -49,6 +49,6 @@
 | Ishan Raj Singh        | ishanrajsingh            | Amity, Noida                                                    |
 | Lakshmish            | Coldesy             | IIIT Allahabad 
 |Priyanshu Ranjan        | justpriyanshu            | BIT Mesra
-
+| Atharva Mehta          | Atharva-insane           |  IIIT Allahabad                                                  |                                               
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
